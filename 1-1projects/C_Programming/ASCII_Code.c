@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//아스키코드
 int main()
 {
 	char ch='0';
